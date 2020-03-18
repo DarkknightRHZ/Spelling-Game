@@ -5,6 +5,6 @@ This game is made for educational purpose only. I have used Unity3D game engine 
 
 The graphics, fonts and audio assets credits links :-
 
-www.1001fonts.com
-www.zedge.net
+1) www.1001fonts.com <br>
+2) www.zedge.net <br>
 www.assetstore.unity3d.com
